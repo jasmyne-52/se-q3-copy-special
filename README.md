@@ -15,7 +15,7 @@ Here are some suggested functions to create in your solution (details below):
 Gather a list of the absolute paths of the special files in all the directories. In the simplest case, just print that list (here, the `.` after the command is a single argument indicating the current directory). Print one absolute path per line.
 
 
-    $ python copyspecial.py .
+    $ python copyspecial.py --tozip tmp.zip .
     /Users/daniel/Documents/github/kenzie/backend-copy-special-assessment/xyz__hello__.txt
     /Users/daniel/Documents/github/kenzie/backend-copy-special-assessment/zz__something__.jpg
 
