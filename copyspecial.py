@@ -7,7 +7,7 @@
 # http://www.apache.org/licenses/LICENSE-2.0
 
 # give credits
-__author__ = "Jasmyne Ford with help from JT and classmates"
+__author__ = "Jasmyne Ford w/h/f JT and classmates"
 
 import re
 import os
